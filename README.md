@@ -1,3 +1,4 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s" alt="logo" style="width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm Sandesh Thapa</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
 
